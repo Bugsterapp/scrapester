@@ -14,10 +14,10 @@
 [![Last Commit](https://img.shields.io/github/last-commit/Bugsterapp/scrapester)](https://github.com/Bugsterapp/scrapester/commits/main)
 
 
-[Documentation](https://docs.scrapester.dev) |
+[Documentation](https://docs.scrapester.lol) |
 [Python SDK](https://pypi.org/project/scrapester/) |
 [JavaScript SDK](https://www.npmjs.com/package/scrapester) |
-[Discord](https://discord.gg/scrapester)
+[Playground](https://scrapester.lol)
 
 Turn any website into LLM-ready clean data.
 
